@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.oops {
+    margin-left: 440px;
+    margin-top: 90px;
+    font-size: 150px;
+}
+.PAGE {
+    margin-top: 50px;
+    margin-left: 480px;
+}
+p {
+    font-size: 20px;
+    margin-left: 400px;
+    margin-top: 30px;
+}
+.btn-1 {
+    margin-left: 580px;
+    margin-top: 50px;
+    padding: 10px 20px;
+    background-color: green;
+    cursor: pointer;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
